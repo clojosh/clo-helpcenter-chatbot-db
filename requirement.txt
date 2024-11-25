@@ -1,0 +1,17 @@
+tiktoken==0.4.0
+azure-identity==1.13.0
+langchain==0.0.187
+openai[datalib]==1.8.0
+azure-search-documents==11.4.0
+azure-storage-blob==12.14.1
+azure-ai-textanalytics==5.3.0
+python-dotenv==1.0.0
+shortuuid==1.0.11
+lingua-language-detector==2.0.2
+shortuuid==1.0.11
+azure-ai-translation-text==1.0.0b1
+iso639-lang==2.2.3
+bcp47==0.0.4
+jsonlines==4.0.0
+questionary==2.0.1
+motor
